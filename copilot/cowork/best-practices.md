@@ -2,7 +2,7 @@
 title: Best practices for Cowork (Frontier)
 description: Learn best practices to work efficiently with Microsoft 365 Copilot Cowork.
 ms.date: 04/07/2026
-ms.topic: how-to
+ms.topic: concept-article
 author: leeclontz
 manager: KumarVivek
 ms.author: leeclontz
